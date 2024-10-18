@@ -1,0 +1,4 @@
+This is a sample document with keyword1 and keyword2.
+keyword1 appears multiple times. keyword1
+This is a common phrase example.
+This is group 10 
